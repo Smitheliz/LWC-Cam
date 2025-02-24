@@ -789,7 +789,7 @@
 	"id": "https://raw.githubusercontent.com/Smitheliz/LWC-Cam/main/Inferno_english.xml?place_annotation_20250224152430287",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-24T15:24:30.287Z",
-	"dcterms:modified": "2025-02-24T15:24:30.287Z",
+	"dcterms:modified": "2025-02-24T15:25:23.524Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Smitheliz",
 		"@type": [
@@ -832,7 +832,7 @@
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high",
-	"cwrc:hasPrecision": "cwrc:UnknownCertainty"
+	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -941,7 +941,7 @@
             <lg n="15">
                <l n="43">Great grief seized on my heart when this I heard,</l>
                <l n="44">Because some people of much worthiness</l>
-               <l n="45">I knew, who in that <placeName key="limbo" ref="http://www.wikidata.org/entity/Q270710" cert="high">Limbo<precision match="@ref" precision="Unknown"/></placeName> were suspended.</l>
+               <l n="45">I knew, who in that <placeName key="limbo" ref="http://www.wikidata.org/entity/Q270710" cert="high">Limbo<precision match="@ref" precision="high"/></placeName> were suspended.</l>
             </lg>
 
             <lg n="16">
